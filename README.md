@@ -1,4 +1,4 @@
-# 🚀 Supply Chain Analytics Dashboard
+## Supply Chain Analytics Dashboard - Postgres - jupyter notebook, 
 
 ## 📌 Project Overview
 

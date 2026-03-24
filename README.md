@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project is a complete end-to-end Supply Chain Data Analytics Dashboard designed to analyze, monitor, and optimize supply chain operations. It integrates PostgreSQL database management, Python-based data analysis, and interactive visualizations to deliver meaningful business insights.
+- This project is a complete end-to-end Supply Chain Data Analytics Dashboard designed to analyze, monitor, and optimize supply chain operations. It integrates PostgreSQL database management, Python-based data analysis, and interactive visualizations to deliver meaningful business insights.
 
-The system processes supply chain data such as product performance, supplier efficiency, logistics operations, and cost distribution. The objective of this project is to simulate a real-world industry use case where data-driven decisions improve operational efficiency, reduce costs, and enhance overall supply chain performance.
+- The system processes supply chain data such as product performance, supplier efficiency, logistics operations, and cost distribution. The objective of this project is to simulate a real-world industry use case where data-driven decisions improve operational efficiency, reduce costs, and enhance overall supply chain performance.
 
-This project is well-suited for roles such as Supply Chain Analyst, Data Analyst, and Business Analyst, demonstrating strong capabilities in SQL, Python, and data visualization.
+- This project is well-suited for roles such as Supply Chain Analyst, Data Analyst, and Business Analyst, demonstrating strong capabilities in SQL, Python, and data visualization.
 
 ## Tech Stack
 

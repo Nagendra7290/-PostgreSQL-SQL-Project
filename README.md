@@ -1,4 +1,4 @@
-# Supply Chain Analytics Dashboard - PostgreSQL - Jupyter Notebook
+# Supply Chain Analytics  II PostgreSQL & Jupyter Notebook
 
 ## Project Overview
 

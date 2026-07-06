@@ -176,10 +176,3 @@ This project helps organizations to:
 Nagendra Arya  
 Control Tower Executive I Supply Chain Analysis I Data Analysis
 
-## Support
-
-If you find this project useful, consider giving it a star on GitHub or contributing to its improvement.
-
-## Contact
-
-For collaboration or queries, feel free to connect.
